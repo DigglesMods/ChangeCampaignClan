@@ -1,0 +1,49 @@
+﻿{
+	"version" : "0.1",
+	"author" : "cech12",
+	
+	"name" :  {
+		"en" : "Change Campain Clan",
+		"de" : "Kampagnen-Clan ändern"
+	},
+	"description" : {
+		"en" : "Change the played diggles clan in the campaign.",
+		"de" : "Ändert den spielbaren Wiggles-Clan in der Kampagne."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/ChangeCampaignClan/releases",
+		"wiki" : "https://github.com/DigglesMods/ChangeCampaignClan/wiki"
+	},
+	
+	"settings" : [
+		{
+		  "id": "CLAN",
+		  "type": "int",
+		  "default": 0,
+		  "min": 0,
+		  "max": 4,
+			"name" :  {
+				"en" : "Clan ID",
+				"de" : "Clan ID"
+			},
+			"description" : {
+				"en" : "(0:Diggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)",
+				"de" : "(0:Wiggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)"
+			}
+		},
+		{
+			"id" : "SWAP_CLAN",
+			"type" : "bool",
+			"default" : false,
+			"name" :  {
+				"en" : "Swap clan",
+				"de" : "Tausche Clan"
+			},
+			"description" : {
+				"en" : "The chosen clan becomes the Diggles clan.",
+				"de" : "Der ausgewählte Clan wird zum Wiggles-Clan."
+			}
+		}
+	]
+}
