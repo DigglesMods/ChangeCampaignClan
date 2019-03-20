@@ -25,7 +25,7 @@
 </h2>
 
 <p align="justify">
-    Aby zastosować modyfikację musisz najpierw pobrać <em>DigglesModManager</em>. Najnowsze wydanie Menadżera Modyfikacji możesz pobrać <a href="https://digglesmods.github.io/DigglesModManager">przechodząc pod ten odnośnik</a>.
+    Modyfikacja jest dostępna do pobrania razem z Menadżerem Modyfikacji (DigglesModManager), którego najnowsza wersja dostępna jest <a href="https://digglesmods.github.io/DigglesModManager">pod tym odnośnikiem</a>.
 </p>
 <br>
 
