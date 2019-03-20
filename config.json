@@ -4,12 +4,13 @@
 	
 	"name" :  {
 		"en" : "Change Campain Clan",
-		"de" : "Kampagnen-Clan ändern"
+		"de" : "Kampagnen-Clan ändern",
+		"pl" : "Zmień klan w trybie kampanii"
 	},
 	"description" : {
 		"en" : "Change the played diggles clan in the campaign.",
 		"de" : "Ändert den spielbaren Wiggles-Clan in der Kampagne.",
-		"pl" : "Zmień klan w trybie kampanii"
+		"pl" : "Pozwala zmienić klan karłów, którym rozgrywana jest kampania."
 	},
 	
 	"links" : {
