@@ -8,7 +8,8 @@
 	},
 	"description" : {
 		"en" : "Change the played diggles clan in the campaign.",
-		"de" : "Ändert den spielbaren Wiggles-Clan in der Kampagne."
+		"de" : "Ändert den spielbaren Wiggles-Clan in der Kampagne.",
+		"pl" : "Zmień klan w trybie kampanii"
 	},
 	
 	"links" : {
@@ -25,11 +26,13 @@
 		  "max": 4,
 			"name" :  {
 				"en" : "Clan ID",
-				"de" : "Clan ID"
+				"de" : "Clan ID",
+				"pl" : "ID klanu",
 			},
 			"description" : {
 				"en" : "(0:Diggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)",
-				"de" : "(0:Wiggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)"
+				"de" : "(0:Wiggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)",
+				"pl" : "(0:Wigglesy, 1:Hipisi, 2:Puknięci, 3:Jajogłowi, 4:Wampiry)"
 			}
 		},
 		{
@@ -38,11 +41,13 @@
 			"default" : false,
 			"name" :  {
 				"en" : "Swap clan",
-				"de" : "Tausche Clan"
+				"de" : "Tausche Clan",
+				"pl" : "Podmień klan"
 			},
 			"description" : {
 				"en" : "The chosen clan becomes the Diggles clan.",
-				"de" : "Der ausgewählte Clan wird zum Wiggles-Clan."
+				"de" : "Der ausgewählte Clan wird zum Wiggles-Clan.",
+				"pl" : "Wybrany klan zostaje zamieniony miejscami z klanem Wigglesów."
 			}
 		}
 	]
