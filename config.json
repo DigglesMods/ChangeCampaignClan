@@ -5,7 +5,7 @@
 	"name" :  {
 		"en" : "Change Campain Clan",
 		"de" : "Kampagnen-Clan ändern",
-		"pl" : "Zmień klan w trybie kampanii"
+		"pl" : "Zagraj w kampanię innym klanem"
 	},
 	"description" : {
 		"en" : "Change the played diggles clan in the campaign.",
