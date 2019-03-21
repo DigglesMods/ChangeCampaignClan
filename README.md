@@ -1,5 +1,5 @@
 <p align="right">
-    ENGLISH | <a href="./docs/pl-PL/>POLISH</a>
+    ENGLISH | <a href="./docs/pl-PL/">POLISH</a>
 </p>
 
 <h1 align="center">
