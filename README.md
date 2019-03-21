@@ -1,39 +1,15 @@
-<p align="right">
-    ENGLISH | <a href="./docs/pl-PL/">POLISH</a>
-</p>
+ENGLISH | [POLISH](./docs/pl-PL/)
 
-<h1 align="center">
-    Change Campaign Clan
-</h1>
+# Change Campaign Clan (Mod for Diggles)
 
-<p align="center">
-    DIGGLES MOD
-</p>
-<br>
+## Description
 
-<h2 align="center">
-    Description
-</h2>
+**"Change Campaign Clan"** is a mod for the game 'Diggles - The Myth of Fenris', which lets you change the played diggles clan in the campaign to an other clan.
 
-<p align="justify">
-    <strong>
-      "Change Campaign Clan"</strong> is a mod for the game 'Diggles - The Myth of Fenris', which lets you change the played diggles clan in the campaign to an other clan.
-</p>
-<br>
+## How to install
 
-<h2 align="center">
-    How to install?
-</h2>
+The mod is included in the latest release of the [DigglesModManager](https://digglesmods.github.io/DigglesModManager).
 
-<p align="justify">
-    The mod is available to download with DigglesModManager, which the latest version you can <a href="https://digglesmods.github.io/DigglesModManager">download here</a>.
-</p>
-<br>
+## How to use
 
-
-<h2 align="center">
-    How to use?
-</h2>
-<p align="justify">
-    Options of this mod is described on Wiki: <a href="https://github.com/DigglesMods/ChangeCampaignClan/wiki">Read</a>.
-</p>
+Options of this mod are described in the [wiki](https://github.com/DigglesMods/ChangeCampaignClan/wiki).

@@ -1,38 +1,15 @@
-<p align="right">
-    <a href="./../../../../">ENGLISH</a> | POLISH
-</p>
+[ENGLISH](../../../../) | POLISH
 
-<h1 align="center">
-    Zagraj w kampanię innym klanem
-</h1>
+# Zagraj w kampanię innym klanem (MODYFIKACJA DO GRY WIGGLES)
 
-<p align="center">
-    MODYFIKACJA DO GRY WIGGLES
-</p>
-<br>
+## Opis modyfikacji
 
-<h2 align="center">
-    Opis modyfikacji
-</h2>
+**"Zagraj w kampanię innym klanem"** to modyfikacja do gry Wiggles, dzięki której możnesz wybrać, jakim klanem rozegrasz fabułę gry w trybie kampanii.
 
-<p align="justify">
-    <strong>"Zagraj w kampanię innym klanem"</strong> to modyfikacja do gry Wiggles, dzięki której możnesz wybrać, jakim klanem rozegrasz fabułę gry w trybie kampanii.
-</p>
-<br>
+## Jak zainstalować modyfikację?
 
-<h2 align="center">
-    Jak zainstalować modyfikację?
-</h2>
+Modyfikacja jest dostępna do pobrania razem z Menadżerem Modyfikacji (DigglesModManager), którego najnowsza wersja dostępna jest [pod tym odnośnikiem](https://digglesmods.github.io/DigglesModManager).
 
-<p align="justify">
-    Modyfikacja jest dostępna do pobrania razem z Menadżerem Modyfikacji (DigglesModManager), którego najnowsza wersja dostępna jest <a href="https://digglesmods.github.io/DigglesModManager">pod tym odnośnikiem</a>.
-</p>
-<br>
+## Obsługa modyfikacji
 
-
-<h2 align="center">
-    Obsługa modyfikacji
-</h2>
-<p align="justify">
-    Opcje modyfikacji zostały wytłumaczone na stronie Wiki: <a href="https://github.com/DigglesMods/ChangeCampaignClan/wiki">Przeczytaj</a>.
-</p>
+Opcje modyfikacji zostały wytłumaczone na stronie Wiki: [Przeczytaj](https://github.com/DigglesMods/ChangeCampaignClan/wiki).
