@@ -1,5 +1,5 @@
 ﻿{
-	"version" : "0.1",
+	"version" : "0.2",
 	"author" : "cech12",
 	
 	"name" :  {
@@ -20,21 +20,60 @@
 	
 	"settings" : [
 		{
-		  "id": "CLAN",
-		  "type": "int",
-		  "default": 0,
-		  "min": 0,
-		  "max": 4,
+			"id" : "CLAN",
+			"type" : "select",
+			"default" : 0,
 			"name" :  {
-				"en" : "Clan ID",
-				"de" : "Clan ID",
-				"pl" : "ID klanu",
+				"en" : "Clan",
+				"de" : "Clan",
+				"pl" : "Klan",
 			},
 			"description" : {
-				"en" : "(0:Diggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)",
-				"de" : "(0:Wiggles, 1:Peacer, 2:Knockers, 3:Brains, 4:Vampyres)",
-				"pl" : "(0:Wigglesy, 1:Hipisi, 2:Puknięci, 3:Jajogłowi, 4:Wampiry)"
-			}
+				"en" : "Clan that you want to play in campaign.",
+				"de" : "Clan, den du in der Kampagne spielen möchtest."
+			},
+			"possibleValues" : [
+				{
+					"value" : 0,
+					"name" : {
+						"en" : "Diggles",
+						"de" : "Wiggles",
+						"pl" : "Wigglesy"
+					}
+				},
+				{
+					"value" : 1,
+					"name" : {
+						"en" : "Peacer",
+						"de" : "Peacer",
+						"pl" : "Hipisi"
+					}
+				},
+				{
+					"value" : 2,
+					"name" : {
+						"en" : "Knockers",
+						"de" : "Knockers",
+						"pl" : "Puknięci"
+					}
+				},
+				{
+					"value" : 3,
+					"name" : {
+						"en" : "Brains",
+						"de" : "Brains",
+						"pl" : "Jajogłowi"
+					}
+				},
+				{
+					"value" : 4,
+					"name" : {
+						"en" : "Vampyres",
+						"de" : "Vampyres",
+						"pl" : "Wampiry"
+					}
+				}
+			]
 		},
 		{
 			"id" : "SWAP_CLAN",
